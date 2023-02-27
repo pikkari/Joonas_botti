@@ -38,12 +38,15 @@ npm install dotenv --save
 Selkokielellä:
 Liitä botti jäseneksi serverille.
 Soittoajan määrityksen ajastin alkaa klo 8.00 ja loppuu 15.00 ihan sama mitä tekee
-(/ajastin komento, jolloin ajastin alkaa käydä ja loppuu /lopeta ajastin)
-soittoajan määritys 30min-90min 
-arpoo monenko minuutin kuluttua musiikki alkaa soida
-alkaa soida uudelleen (loop)
-soittoaika 15sec-30sec
-valitsee musiikin ennalta määritetystö paikasta
+(/Aloita tauottaja komento, jolloin ajastin alkaa käydä ja loppuu /lopeta ajastin)*
+Soittoajan määritys 30min-90min
+Arpoo monenko minuutin kuluttua musiikki alkaa soida
+Ajastin käynnistyy
+Kun, ajastin on 0 musiikki käynnistyy
+Seuraava tauon arpominen alkaa kun musiikki on soitettu.
+Soittajan pituuden arvonta 15sec-30sec
+Ajastimnen käynnistys
+Soundcloudin listasta otettu lista.
 musiikissa jäljellä ainakin botin arpoman ajan verran (jos ei toteudu vaihtaa uuteen musiikkiin.)
 
 https://github.com/Baanaani/Joonas_botti
