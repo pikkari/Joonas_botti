@@ -31,6 +31,9 @@ client.on('messageCreate', msg => {
     }
 });
 
+const { generateDependencyReport } = require('@discordjs/voice');
+console.log(generateDependencyReport());
+
 const { DisTube } = require("distube");
 
 client.DisTube = new DisTube(client, {
