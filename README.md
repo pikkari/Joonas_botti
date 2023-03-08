@@ -50,3 +50,7 @@ Soundcloudin listasta otettu lista.
 musiikissa jäljellä ainakin botin arpoman ajan verran (jos ei toteudu vaihtaa uuteen musiikkiin.)
 
 https://github.com/Baanaani/Joonas_botti
+
+
+Update:
+https://github.com/pikkari/Joonas_botti?organization=pikkari&organization=pikkari
